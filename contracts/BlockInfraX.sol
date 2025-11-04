@@ -61,6 +61,3 @@ contract BlockInfraX {
         return (p.id, p.name, p.location, p.owner);
     }
 }
-// 
-update
-// 
